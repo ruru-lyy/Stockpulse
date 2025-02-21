@@ -13,6 +13,9 @@
 
 ### Demo:
 
+[![StockPulse Demo](assets/thumbnail.png)](https://github.com/ruru-lyy/Stockpulse/blob/master/assets/Stockpulse.mp4)
+
+
 
 
 
